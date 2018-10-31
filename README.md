@@ -12,7 +12,7 @@ navigating to the project directory and running:
 $ conda env create -f env.yml
 ```
 
-Then you'll need to register this environment as an ipython kernel [1]. Use the
+Then you'll need to register this environment as an ipython kernel ([1]). Use the
 following command:
 
 ```
@@ -23,7 +23,7 @@ $ conda activate
 Now you'll be able to run the notebooks via Jupyter notebook or Jupyterhub.
 
 If you don't have `conda` installed, you can get it with the `miniconda`
-distribtution [2].
+distribtution ([2]).
 
 [1]: https://ipython.readthedocs.io/en/stable/install/kernel_install.html
 [2]: https://conda.io/miniconda.html
