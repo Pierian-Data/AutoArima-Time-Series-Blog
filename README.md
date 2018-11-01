@@ -16,7 +16,7 @@ Then you'll need to register this environment as an ipython kernel ([1]). Use th
 following command:
 
 ```
-$ conda activate
+$ conda activate auto-arima
 (auto-arima) $ python -m ipykernel install --user --name auto-arima --display-name "Auto-Arima (Py3)"
 ```
 
